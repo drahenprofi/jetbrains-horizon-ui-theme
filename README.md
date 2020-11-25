@@ -5,4 +5,8 @@ This is a port of the beautiful VSCode Horizon theme by [ jolaleye](https://gith
 ## Screenshot
 
 ![Screenshot](screenshot.png)
+
+## Installation
+
+To install download the `.jar` file [here](https://github.com/arndtphillip/jetbrains-horizon-ui-theme/releases/tag/0.1). Then import it in your JetBrains IDEA (**Settings** > **Plugins** > **Install Plugin from Disk...**). Now you should be able to select **Horizon** from the Theme dropdown list. 
  
